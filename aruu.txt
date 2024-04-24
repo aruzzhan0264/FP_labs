@@ -1,8 +1,0 @@
- first name: Aruzhan
- last name: Meirambek
- birthdate: 02.06.2004
- age:19
- degree: Bachelor at Satbayev University
- academic year: 3rd
- specialty: Computer Science
-
