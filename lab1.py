@@ -1,3 +1,5 @@
+#   lab 1 variant 6
+
 from functools import reduce
 #  тізім / список элементов
 numbers = [-12, 17, -36, 48, 65, 16, 56]
