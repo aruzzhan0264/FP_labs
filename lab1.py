@@ -1,4 +1,4 @@
-#   lab 1 variant 6
+#   Бұл 1-ші лабраториялық жұмыс
 
 from functools import reduce
 #  тізім / список элементов
