@@ -1,3 +1,4 @@
+# this is lab 8
 # var 6.
 
 from dataclasses import dataclass  # библиотека для определения класса данных с автоматизированными методами
