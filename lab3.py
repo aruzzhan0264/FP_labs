@@ -1,3 +1,4 @@
+#  lab 3 var 6
 #  gcd табу : 1 нұсқа
 
 def gcd(a, b):
